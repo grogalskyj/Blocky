@@ -1,0 +1,110 @@
+
+*{
+	box-sizing: border-box;
+}
+
+#paint{
+padding-top: 0px;
+padding-bottom: 0px;
+
+ width: 100%;
+ height: 100%;
+
+
+}
+
+
+
+.dancers{
+	display: none;
+	position: relative;
+}
+
+
+#deadhead{
+	position: relative;
+	top: -50%;
+	left: 90%;
+}
+
+
+
+#carebear{
+	position: relative;
+	top: -30%;
+	left: 90%;
+}
+
+
+
+
+#pooh{
+
+	position: relative;
+	top: -60%;
+	left: 40%;
+
+}
+
+#karen{
+	position: relative;
+	top: -80%;
+	left: 10%;
+
+}
+
+#pooh2{
+
+	position: relative;
+	top: -60%;
+	left: 45%;
+	display: inline;
+
+}
+
+#blackdude{
+
+	position: relative;
+	top: -90%;
+	left: 90%;
+
+
+}
+
+
+
+
+#linus{
+
+	top: -80%;
+	left: 20%;
+	position: relative;
+
+}
+
+
+#jerry{
+
+	top: -60%;
+	left: 30%;
+}
+
+#rick{
+
+	top: -90%;
+	left: 50%;
+
+}
+
+
+#bunnygirl{
+	display: inline;
+	position: relative;
+	top: -500px;
+	left: 100px;
+
+}
+
+#snoopy{
+	z-index: 2;
+}
