@@ -1,8 +1,4 @@
 
-//artists recommended to listen to this program: playboi carti, mac miller (his old stuff), ASAP Rocky ofc
-//drugs recommended; microdosing LSD, ecstasy (not yet FDA approved), edibles would likey be good
-//want to try this with that virtual reality stuff... would be sick
-
 
 var canvas = document.getElementById("paint"); //creation of canvas
 var c = canvas.getContext("2d");
